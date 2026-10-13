@@ -3,13 +3,13 @@
   "files": [
     {
       "path": "index.html",
-      "sha256": "ff4894998942e46d3c60cffef62207ec42bcfff9db4ed03f4977a6e9d38081d5",
+      "sha256": "b12deb16b6ffb708b7ce660c506af40f7d825cf10b5d4b95261662de36be7b0c",
       "size": 371
     }
   ],
   "format_version": 1,
   "kind": "smoke",
   "pr": 9,
-  "run_id": 38399183482,
-  "sha": "1e373cd8cc8ed145e8c70a0ad1596bafc3cb875f"
+  "run_id": 38402100760,
+  "sha": "bef8a7b4fb52f8722c7e3ea57d732e77824944e1"
 }
