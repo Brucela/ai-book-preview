@@ -1,20 +1,16 @@
 {
   "day": 1,
-  "tier": "L1_preview_in_progress_not_L2_or_L3",
+  "tier": "L1_preview_ready_not_L2_or_L3",
   "title": "會發光的故事書",
   "editorialSha256": "bb7533af668779f82cfa65b6f7cc890b126d55f1d9b9ef72b29fccaeacb9f5cb",
   "durationSeconds": 228.32,
   "audioSha256": "cb5a54857ac42d6aedd36b6d08c21c561e4ba988b6e98136a069f473f84bdbcc",
   "audioStatus": "machine_QA_pass_human_accent_pending",
   "imagesApproved": 0,
-  "imagesCandidate": 2,
-  "imagesMissing": [
-    2,
-    3,
-    4
-  ],
+  "imagesCandidate": 5,
+  "imagesMissing": [],
   "publicReleaseApproved": false,
   "level2Approved": false,
   "scenes": 5,
-  "disclosure": "L1 work in progress. Missing three illustrations; two candidate pictures need redrawing. Serena A has known accent caveat."
+  "disclosure": "Five-scene L1 preview with candidate art. L2 human visual approval and voice accent review pending; not L3 publication."
 }

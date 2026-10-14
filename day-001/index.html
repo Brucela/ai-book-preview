@@ -2,7 +2,7 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow,noarchive,nosnippet">
 <link rel="preload" as="image" href="images/scene-05.png">
-<title>Day 001｜會發光的故事書・私人審閱</title>
+<title>Day 001｜會發光的故事書・L1 試閱</title>
 <style>
 :root{--ink:#3b3029;--muted:#756a5f;--cream:#f9f5ed;--line:#e9dac4;--green:#59725f;--rose:#af7d69}
 *{box-sizing:border-box}[hidden]{display:none!important}body{margin:0;background:radial-gradient(ellipse at 10% 5%,#fffaf1 0%,transparent 50%),#f2ecdf;color:var(--ink);font:17px/1.8 -apple-system,BlinkMacSystemFont,"Noto Sans TC","PingFang TC",system-ui,sans-serif}
@@ -14,11 +14,11 @@ h1{font-size:clamp(1.8rem,4vw,3rem);font-family:Georgia,"Noto Serif TC","Songti 
 .notice strong{font-weight:800}.notice b{color:#a25e42}
 .chapters{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin:0 0 22px}
 .chapters button{background:#fffdf8;border:1px solid #dac8ae;border-radius:12px;padding:10px;font-size:.8rem;min-height:70px;text-align:left;line-height:1.5;box-shadow:0 2px 8px #46392a0b}
-.chapters button.active{background:#304c67;color:#fff7e7;border-color:#304c67}
+.chapters button.active,.chapters button.active:hover{background:#304c67;color:#fff7e7;border-color:#304c67}
 .chapter-number{font-size:.72rem;opacity:.8;display:block}
 .story{display:grid;grid-template-columns:1.13fr 1fr;gap:24px;align-items:start}
 .art{margin:0;min-width:0;background:#ede2d0;border-radius:22px;overflow:hidden;box-shadow:0 10px 35px #46392a13;border:1px solid #ded1bd}
-.art img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
+.art img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:contain}
 .art figcaption{min-height:46px;background:#fbf4e6;padding:10px 16px;font-size:.78rem;color:#866d57;text-align:center}
 .art .empty{aspect-ratio:16/9;display:grid;place-content:center;text-align:center;padding:16px;background:radial-gradient(circle at 78% 22%,#f5ddb1 0 5%,transparent 5.2%),linear-gradient(135deg,#183c58,#426d7b 60%,#89a39a);color:#fff7e7}
 .empty .moon{font-size:2.2rem}.empty .missing{font-size:1.2rem;letter-spacing:.07em}.empty small{opacity:.9}
@@ -41,7 +41,7 @@ audio{width:100%;height:48px}.progress{display:flex;gap:7px;margin-top:17px}
 </style></head><body><main>
 <header><p class="eyebrow">MIMI &amp; YUANYUAN · BEDTIME STORIES</p>
 <h1>會發光的故事書</h1><p class="subtitle">DAY 001 · 五幕完整故事 · 約 3 分 48 秒</p></header>
-<div class="notice"><strong>GitHub Pages L1 製作中試閱｜尚未美術定稿或正式出版</strong>　故事文字已核准。旁白為 Serena A <b>候選聲音</b>（可能帶非台灣國語口音），並非已確認正式配音。目前僅有第 1、5 幕<strong>未驗收的候選圖</strong>；第 2～4 幕插畫仍待製作。<strong>此頁僅供你審核整體閱讀體驗，並非完成的有聲繪本。</strong> 持有連結的人亦可查看。</div>
+<div class="notice"><strong>GitHub Pages L1 五幕試閱｜美術與聲音仍待家長驗收</strong>　故事文字已核准。旁白為 Serena A <b>候選聲音</b>（可能帶非台灣國語口音），並非已確認正式配音。五幕皆已有<strong>候選插畫</strong>，可完整閱讀並聆聽。角色比例、臥室與花園銜接及水彩細節仍待 L2 美術審閱。<strong>此頁供你審閱完整試閱體驗，尚未達美術定稿或正式出版。</strong> 持有連結的人亦可查看。</div>
 <section class="chapters" id="chapterNav" aria-label="五幕故事導覽"></section><div class="story"><figure class="art">
 <img id="picture" alt="候選插畫，尚未通過驗收" hidden>
 <div id="noPicture" class="empty" hidden><div class="moon">☾</div><div class="missing">插畫正在修正</div><small>本幕使用已核准的故事文字</small></div>
@@ -50,7 +50,7 @@ audio{width:100%;height:48px}.progress{display:flex;gap:7px;margin-top:17px}
 <nav class="pages"><button id="prev" type="button">← 上一幕</button><span id="pagination">1 / 5</span><button id="next" type="button">下一幕 →</button></nav></article></div>
 <div class="player"><b>🎧 全篇候選旁白</b><p>按播放後，故事會依音訊時間碼自動翻幕。你也可以手動切換幕次；不會播放機械系統語音。</p><audio id="audio" controls preload="metadata" src="audio/story.m4a"></audio><div class="progress" id="progress"></div></div>
 <p class="note">V2 故事原文維持不變 · G1 已核准 · G3 機器音訊 QA 通過 · G2 美術與完整版 G4 驗收未通過。<br>這是 GitHub Pages 的 L1 公開試閱，任何持有網址的人都可以觀看；不代表已達 L2 定稿或 L3 正式出版。</p>
-</main><script>const STORY={"title":"會發光的故事書","scenes":[{"title":"床頭的小星星","text":"暖暖森林的夜晚，窗外有小蟲輕輕唱歌。白兔米米繫著紅色領結，小熊圓圓穿著藍色牛仔吊帶褲，把小毯子放在床上。兩個朋友坐在床邊，正想挑一本今晚要看的書。忽然，米米看見左邊的書架上，多了一本從沒見過的書。深藍色的封面上，只有一顆小小的金色星星。『圓圓，你有看過這本書嗎？』米米問。圓圓搖搖頭：『沒有耶！』就在這時，金色星星慢慢亮了起來。柔柔的光照在書架上，像一盞小夜燈。兩個朋友靠近一點，好奇地看著它。"},{"title":"書頁的祕密","text":"米米把書從書架取下，放在地毯上。圓圓也坐到他旁邊。米米先看了看封面，再輕輕碰了碰書角。『它在發光，摸起來卻是涼涼的。』米米說。圓圓指著書脊：『這裡有三個小圖案！一片綠葉、一朵白雲，還有一條藍色的小魚。』米米歪著頭：『葉子會不會帶我們去森林呢？』圓圓看看小魚，又看看白雲，笑著說：『也可能有別的地方！』書頁沙沙響，金色星星輕輕閃了一下。『我們一起看看吧。』圓圓說。米米點點頭，兩個朋友一起翻開第一頁。"},{"title":"走進紙上的小路","text":"第一頁畫著一條鋪滿柔軟樹葉的小路。一片葉子慢慢飄出書外，落在地毯上。接著，亮亮的小路從書頁伸了出來，一直伸向前方。『哇，真的可以走耶！』圓圓說。他們把書留在地毯上，沿著葉子走了一小段路，來到月光花園。回頭看，房間的暖光還在小路另一端。月光照著路旁圓圓的石頭，遠處的小溪輕輕唱著歌。圓圓指著石頭旁的一朵小花：『你看，它還沒有開。』花苞旁邊，一隻小螢火蟲閃著微光。米米放輕腳步，和圓圓一起走近看看。"},{"title":"等花開的小朋友","text":"圓圓蹲在花旁邊。『它的花瓣都抱在一起呢。』他輕聲說。『不知道打開來是什麼樣子。』米米也蹲下來。兩個朋友坐在圓石旁，一起看著小花。涼涼的風一吹，花苞輕輕搖了搖。圓圓撿起地上一片大葉子，替花擋住風。米米輕輕哼起歌，圓圓也跟著哼了兩聲。小溪的水聲陪著他們。過了一會兒，一片花瓣慢慢鬆開，接著又是一片。『開了，開了！』圓圓小聲說。小花露出溫柔的黃色花心，那隻螢火蟲在旁邊一閃一閃。兩個朋友安靜地看了一會兒，誰也沒有急著走。"},{"title":"第一張小書籤","text":"看完小花，圓圓把大葉子靠在圓石旁。兩個朋友沿著葉子小路走回房間。書還攤在原來的地毯上。最後一片亮葉落回書頁，小路就慢慢不見了。圓圓低頭一看：『咦，多了一張小書籤！』書籤上畫著一朵黃色的小花，和花園裡那朵一樣。『是剛才的小花耶。』米米笑了。兩個朋友把書籤夾好，合上書，放在床邊。小毯子還在床上，窗外的小蟲也還在唱歌。他們蓋好被子，金色星星的光慢慢淡下來。『晚安，第一頁。』米米輕聲說。圓圓打了個小呵欠：『明天，再看看另一頁吧。』"}],"boundaries":[42.46,86.76,131.48,179.24],"pictures":{"1":"images/scene-01.png","5":"images/scene-05.png"},"pauseAfterScene":2,"pauseQuestion":"你猜猜，這本書會帶米米和圓圓看到什麼？","closingQuestion":"如果你有一本神奇故事書，你最想去看看什麼地方？"};
+</main><script>const STORY={"title":"會發光的故事書","scenes":[{"title":"床頭的小星星","text":"暖暖森林的夜晚，窗外有小蟲輕輕唱歌。白兔米米繫著紅色領結，小熊圓圓穿著藍色牛仔吊帶褲，把小毯子放在床上。兩個朋友坐在床邊，正想挑一本今晚要看的書。忽然，米米看見左邊的書架上，多了一本從沒見過的書。深藍色的封面上，只有一顆小小的金色星星。『圓圓，你有看過這本書嗎？』米米問。圓圓搖搖頭：『沒有耶！』就在這時，金色星星慢慢亮了起來。柔柔的光照在書架上，像一盞小夜燈。兩個朋友靠近一點，好奇地看著它。"},{"title":"書頁的祕密","text":"米米把書從書架取下，放在地毯上。圓圓也坐到他旁邊。米米先看了看封面，再輕輕碰了碰書角。『它在發光，摸起來卻是涼涼的。』米米說。圓圓指著書脊：『這裡有三個小圖案！一片綠葉、一朵白雲，還有一條藍色的小魚。』米米歪著頭：『葉子會不會帶我們去森林呢？』圓圓看看小魚，又看看白雲，笑著說：『也可能有別的地方！』書頁沙沙響，金色星星輕輕閃了一下。『我們一起看看吧。』圓圓說。米米點點頭，兩個朋友一起翻開第一頁。"},{"title":"走進紙上的小路","text":"第一頁畫著一條鋪滿柔軟樹葉的小路。一片葉子慢慢飄出書外，落在地毯上。接著，亮亮的小路從書頁伸了出來，一直伸向前方。『哇，真的可以走耶！』圓圓說。他們把書留在地毯上，沿著葉子走了一小段路，來到月光花園。回頭看，房間的暖光還在小路另一端。月光照著路旁圓圓的石頭，遠處的小溪輕輕唱著歌。圓圓指著石頭旁的一朵小花：『你看，它還沒有開。』花苞旁邊，一隻小螢火蟲閃著微光。米米放輕腳步，和圓圓一起走近看看。"},{"title":"等花開的小朋友","text":"圓圓蹲在花旁邊。『它的花瓣都抱在一起呢。』他輕聲說。『不知道打開來是什麼樣子。』米米也蹲下來。兩個朋友坐在圓石旁，一起看著小花。涼涼的風一吹，花苞輕輕搖了搖。圓圓撿起地上一片大葉子，替花擋住風。米米輕輕哼起歌，圓圓也跟著哼了兩聲。小溪的水聲陪著他們。過了一會兒，一片花瓣慢慢鬆開，接著又是一片。『開了，開了！』圓圓小聲說。小花露出溫柔的黃色花心，那隻螢火蟲在旁邊一閃一閃。兩個朋友安靜地看了一會兒，誰也沒有急著走。"},{"title":"第一張小書籤","text":"看完小花，圓圓把大葉子靠在圓石旁。兩個朋友沿著葉子小路走回房間。書還攤在原來的地毯上。最後一片亮葉落回書頁，小路就慢慢不見了。圓圓低頭一看：『咦，多了一張小書籤！』書籤上畫著一朵黃色的小花，和花園裡那朵一樣。『是剛才的小花耶。』米米笑了。兩個朋友把書籤夾好，合上書，放在床邊。小毯子還在床上，窗外的小蟲也還在唱歌。他們蓋好被子，金色星星的光慢慢淡下來。『晚安，第一頁。』米米輕聲說。圓圓打了個小呵欠：『明天，再看看另一頁吧。』"}],"boundaries":[42.46,86.76,131.48,179.24],"pictures":{"1":"images/scene-01.png","2":"images/scene-02.png","3":"images/scene-03.png","4":"images/scene-04.png","5":"images/scene-05.png"},"pauseAfterScene":2,"pauseQuestion":"你猜猜，這本書會帶米米和圓圓看到什麼？","closingQuestion":"如果你有一本神奇故事書，你最想去看看什麼地方？"};
 const $=id=>document.getElementById(id);
 const audio=$('audio');let current=0;
 function render(i){
@@ -63,7 +63,7 @@ function render(i){
  const src=STORY.pictures[String(n)];
  $('picture').hidden=!src;$('noPicture').hidden=!!src;
  if(src){$('picture').src=src;$('picture').alt='第'+n+'幕未驗收候選插畫'}
- $('artNote').textContent=src?(n===5?'候選插畫｜畫面偏向結尾，書籤發現時點仍待重製':'候選插畫｜尚未通過 Day 002 水彩規範驗收'):'第 '+n+' 幕｜正式插畫尚未完成';
+ $('artNote').textContent=src?'L1 候選插畫｜尚未通過家長 L2 美術定稿驗收':'第 '+n+' 幕｜正式插畫尚未完成';
  const question=n===STORY.pauseAfterScene?'親子互動（可略過）：'+STORY.pauseQuestion:n===STORY.scenes.length?'睡前的小問題：'+STORY.closingQuestion:'';
  $('question').hidden=!question;$('question').textContent=question;
  Array.from($('progress').children).forEach((p,j)=>p.classList.toggle('active',j<=current));Array.from($('chapterNav').children).forEach((p,j)=>{p.classList.toggle('active',j===current);p.setAttribute('aria-current',j===current?'step':'false');});
