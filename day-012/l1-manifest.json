@@ -1,0 +1,19 @@
+{
+  "day": 12,
+  "title": "玩具火車開錯路",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "bb65c23cbfff0bd33eebf7479983794406d37e5f57434d1a4d2d406851526f08",
+  "audioSha256": "680f5cdeccf99d06a365acfe540271b68f100cf3717e9e8898888cd2b80c48c3",
+  "durationSeconds": 237.36,
+  "sceneBoundaries": [
+    42.39,
+    90.48,
+    138.03,
+    187.94
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

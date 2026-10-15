@@ -121,11 +121,25 @@
         },
         {
           "day": 11,
-          "status": "preparing"
+          "status": "preview",
+          "title": "圓圓的壞掉機器人",
+          "summary": "在大象叔叔陪伴下，看看小機器人為什麼停下來。",
+          "minutes": 4,
+          "href": "day-011/",
+          "image": "day-011/images/scene-05.webp",
+          "imageAlt": "圓圓的壞掉機器人故事插畫",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 12,
-          "status": "preparing"
+          "status": "preview",
+          "title": "玩具火車開錯路",
+          "summary": "沿著木軌找一找，讓月亮信慢慢抵達藍色小站。",
+          "minutes": 4,
+          "href": "day-012/",
+          "image": "day-012/images/scene-04.webp",
+          "imageAlt": "玩具火車開錯路故事插畫",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 13,

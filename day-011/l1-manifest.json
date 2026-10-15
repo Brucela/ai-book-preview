@@ -1,0 +1,19 @@
+{
+  "day": 11,
+  "title": "圓圓的壞掉機器人",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "12a2af6f2bae4027b3b32200853b568b2871e95ae3853a2993a0bca483d0a99c",
+  "audioSha256": "ffa965d77db355898fdf411372afa7b3f5663d90bb932918df289d98cec360d3",
+  "durationSeconds": 235.36,
+  "sceneBoundaries": [
+    43.27,
+    89.13,
+    137.31,
+    185.93
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}
