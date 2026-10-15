@@ -44,7 +44,14 @@
         },
         {
           "day": 4,
-          "status": "preparing"
+          "status": "preview",
+          "title": "圓圓不想分享",
+          "summary": "圓圓想自己玩綠色小車，米米排起一條葉子路。兩個朋友各自的玩法，會在哪裡相遇？",
+          "minutes": 3,
+          "href": "day-004/",
+          "image": "day-004/images/scene-04.webp",
+          "imageAlt": "圓圓自己推小車，米米在葉子路旁幫忙指路",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收"
         },
         {
           "day": 5,

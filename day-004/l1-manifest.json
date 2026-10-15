@@ -1,0 +1,19 @@
+{
+  "day": 4,
+  "title": "圓圓不想分享",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "58f5034f00e70d0c607cef50047df154a9cbea0bafa1049e44a207737f3d8154",
+  "audioSha256": "bdf854027d3b9277124ef0c815c48ac0770cb85c42f25533a7d6aa1c50908c5d",
+  "durationSeconds": 191.12,
+  "sceneBoundaries": [
+    34.61,
+    73.42,
+    118.07,
+    155.48
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}
