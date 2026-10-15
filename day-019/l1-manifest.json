@@ -1,0 +1,19 @@
+{
+  "day": 19,
+  "title": "小魚今天不開心",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "7390664cc1c866c640e34e4d42c35524ec7159d579b0d1adefaeb435f34128b4",
+  "audioSha256": "bd68a98603cf372eb84ca76e6a63fd6ba23b802d5296005991a0ea3f155e305b",
+  "durationSeconds": 243.28,
+  "sceneBoundaries": [
+    43.94,
+    94.9,
+    141.94,
+    191.23
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

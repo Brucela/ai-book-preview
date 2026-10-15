@@ -66,7 +66,14 @@
         },
         {
           "day": 6,
-          "status": "preparing"
+          "status": "preview",
+          "title": "米米說不要",
+          "href": "day-006/",
+          "image": "day-006/images/scene-01.webp",
+          "summary": "花花想摸米米的耳朵，米米有自己的感受。兩個朋友會找到什麼自在的相處方式？",
+          "minutes": 3,
+          "imageAlt": "米米、圓圓與戴紫圍巾的花花在風鈴花園",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收"
         },
         {
           "day": 7,
@@ -110,7 +117,14 @@
         },
         {
           "day": 17,
-          "status": "preparing"
+          "status": "preview",
+          "title": "不想被抱抱的海龜",
+          "href": "day-017/",
+          "image": "day-017/images/scene-01.webp",
+          "summary": "小海龜想抱抱，米米想用別的方式打招呼。他們在海底找到了一起玩的新方法。",
+          "minutes": 4,
+          "imageAlt": "米米、圓圓與小海龜在海底貝殼廣場",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收"
         },
         {
           "day": 18,
@@ -118,7 +132,14 @@
         },
         {
           "day": 19,
-          "status": "preparing"
+          "status": "preview",
+          "title": "小魚今天不開心",
+          "href": "day-019/",
+          "image": "day-019/images/scene-01.webp",
+          "summary": "小魚今天有些不開心。米米和圓圓慢慢陪在旁邊，留一點安靜的空間。",
+          "minutes": 4,
+          "imageAlt": "米米與圓圓給低落的小魚留出空間",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收"
         },
         {
           "day": 20,

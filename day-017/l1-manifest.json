@@ -1,0 +1,19 @@
+{
+  "day": 17,
+  "title": "不想被抱抱的海龜",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "a228e0a98d4e365520b348320eb917089618dc41e00d9eb2027398da5cf101c2",
+  "audioSha256": "20a015aec9f1e77bf17edf289fb4f5776510d3219f3df75a5869f9d7bbb4abf3",
+  "durationSeconds": 250.8893,
+  "sceneBoundaries": [
+    48.07,
+    98.14,
+    149.44,
+    200.17
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

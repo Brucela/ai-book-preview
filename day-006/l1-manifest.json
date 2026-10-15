@@ -1,0 +1,19 @@
+{
+  "day": 6,
+  "title": "米米說不要",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "613fd890fea08b689be4b6b2923ac62b3c70d3a1f40495133462134b591c9275",
+  "audioSha256": "0901548b81f19d1562b81137814ae5d21a59e60f973587922fd0d4b24bde813a",
+  "durationSeconds": 180.32,
+  "sceneBoundaries": [
+    30.28,
+    62.58,
+    95.72,
+    142.54
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}
