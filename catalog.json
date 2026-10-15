@@ -77,7 +77,14 @@
         },
         {
           "day": 7,
-          "status": "preparing"
+          "status": "preview",
+          "title": "小小的對不起",
+          "href": "day-007/",
+          "image": "day-007/images/scene-01.webp",
+          "summary": "花盆不小心倒了，小苗歪向一邊。米米、圓圓和兔阿姨一起，慢慢把它們照顧好。",
+          "minutes": 3,
+          "imageAlt": "米米、圓圓與兔阿姨在花園照顧三株小苗",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收"
         },
         {
           "day": 8,
@@ -128,7 +135,14 @@
         },
         {
           "day": 18,
-          "status": "preparing"
+          "status": "preview",
+          "title": "珊瑚花園的爭吵",
+          "href": "day-018/",
+          "image": "day-018/images/scene-01.webp",
+          "summary": "紅色、藍色、黃色，大家想像的海底花園不一樣。他們會怎麼替彼此留下位置？",
+          "minutes": 4,
+          "imageAlt": "米米與圓圓在海底挑選花園的布片",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收"
         },
         {
           "day": 19,
@@ -183,7 +197,14 @@
         },
         {
           "day": 30,
-          "status": "preparing"
+          "status": "preview",
+          "title": "故事書裡的小星星",
+          "href": "day-030/",
+          "image": "day-030/images/scene-01.webp",
+          "summary": "翻回故事書的第一頁，小花書籤還在。今晚的新星光，會陪他們留下哪一段回憶？",
+          "minutes": 4,
+          "imageAlt": "米米與圓圓在暖暖臥室看熟悉的故事書",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收"
         }
       ]
     },

@@ -1,0 +1,19 @@
+{
+  "day": 18,
+  "title": "珊瑚花園的爭吵",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "44ca3b0818c859de09d5e207ac146d84dadca64aa9004e1ca6ff421a6e79f8c1",
+  "audioSha256": "58220578d20728c294a426b987a6e4d9ceff03b2ed9f85394f6da5c7f3e4cfed",
+  "durationSeconds": 234.48,
+  "sceneBoundaries": [
+    46.05,
+    92.56,
+    137.86,
+    185.65
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

@@ -1,0 +1,19 @@
+{
+  "day": 30,
+  "title": "故事書裡的小星星",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "c997c9bca0e83aaaac4f002dc67d98f2419ca3109ae8215581f1e8d289b6da0c",
+  "audioSha256": "af7003aff6f909f84592c6cade2e4e079765be94ffe04e7b305d8a9f3ecbe8df",
+  "durationSeconds": 251.5168,
+  "sceneBoundaries": [
+    46.71,
+    94.67,
+    146.05,
+    196.45
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

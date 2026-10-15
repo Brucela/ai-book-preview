@@ -1,0 +1,19 @@
+{
+  "day": 7,
+  "title": "小小的對不起",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "0f18874ebb41b526c77b17dfabee74692e2a3126bcc18436c0d04d17ad98f4b8",
+  "audioSha256": "4a25d2182bdcd56f09cd8544516a4b6eb8137b2f3387f17ff582f0da871b9c22",
+  "durationSeconds": 182.7608,
+  "sceneBoundaries": [
+    33.82,
+    69.8,
+    104.5,
+    143.63
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}
