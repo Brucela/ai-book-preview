@@ -1,0 +1,19 @@
+{
+  "day": 3,
+  "title": "打翻的果汁",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "efbd7f1ff919e56ea9e7afcbfc9ee465e6318f59ebef7e9f179a74d33d05ea7f",
+  "audioSha256": "d06cf2e1950f87f50881d901b418b70dff376e4ce5b64813a72a75dd8748878f",
+  "durationSeconds": 182.08,
+  "sceneBoundaries": [
+    34.8,
+    64.26,
+    95.8,
+    142.59
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

@@ -33,7 +33,14 @@
         },
         {
           "day": 3,
-          "status": "preparing"
+          "status": "preview",
+          "title": "打翻的果汁",
+          "summary": "一杯果汁倒了，畫紙皺起來了。米米和圓圓會一起發現什麼新的風景呢？",
+          "minutes": 3,
+          "href": "day-003/",
+          "image": "day-003/images/scene-05.webp",
+          "imageAlt": "米米與圓圓把兩張畫掛好，果汁移到旁邊的小桌",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收"
         },
         {
           "day": 4,
