@@ -55,7 +55,14 @@
         },
         {
           "day": 5,
-          "status": "preparing"
+          "status": "preview",
+          "title": "消失的小餅乾",
+          "summary": "盤裡少了一塊星星餅乾。跟著桌邊的小線索，米米和圓圓一起慢慢找。",
+          "minutes": 3,
+          "href": "day-005/",
+          "image": "day-005/images/scene-05.webp",
+          "imageAlt": "找回的星星餅乾放回盤中，六塊整齊排好",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收"
         },
         {
           "day": 6,

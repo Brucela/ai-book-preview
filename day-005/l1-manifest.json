@@ -1,0 +1,19 @@
+{
+  "day": 5,
+  "title": "消失的小餅乾",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "74c6b37928acf93ca2562040e04252f9990779bd6e98db30be2ed81e0aeacf12",
+  "audioSha256": "e234489248ee186b27fa8bc7deb0e4b72f30ef8c0f473fc935e5ff2f4eaf72ef",
+  "durationSeconds": 182.8941,
+  "sceneBoundaries": [
+    35.68,
+    71.16,
+    107.82,
+    142.5
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}
