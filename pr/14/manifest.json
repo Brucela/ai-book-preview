@@ -1,0 +1,15 @@
+{
+  "day": null,
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "8b1a0d6723f75b3b1efe45f41bc29c0b66119214e53557645a4b683903c7a7b9",
+      "size": 372
+    }
+  ],
+  "format_version": 1,
+  "kind": "smoke",
+  "pr": 14,
+  "run_id": 38687098636,
+  "sha": "033e9cb7d4b8053b8c70fadeb7f82827a33fd73f"
+}
