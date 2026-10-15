@@ -1,0 +1,20 @@
+{
+  "day": 2,
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 6,
+  "imagesCandidate": 6,
+  "imagesMissing": [],
+  "editorialSha256": "5cc798e05fc85650e184281a968e693a9254ccbf3f406261c2fa633f44eb4d7d",
+  "audioSha256": "20ec36f854350320533b94c9ddcb014072c4a2c47b6c3b54b05ed7975af6bcc7",
+  "durationSeconds": 215.12,
+  "sceneBoundaries": [
+    31.16,
+    69.09,
+    103.82,
+    139.35,
+    173.28
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false,
+  "sourceVersion": "original-pilot-story-with-serena-v5-not-7day-rewrite"
+}

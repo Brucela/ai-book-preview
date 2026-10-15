@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "volumes": [
+    {
+      "number": 1,
+      "label": "第一冊",
+      "title": "晚安故事書",
+      "startDay": 1,
+      "endDay": 30,
+      "status": "preview",
+      "stories": [
+        {
+          "day": 1,
+          "status": "preview",
+          "title": "會發光的故事書",
+          "summary": "書架上的一點金光，帶來第一場小小冒險。月光花園裡，有什麼正在等他們呢？",
+          "minutes": 4,
+          "href": "day-001/",
+          "image": "day-001/images/scene-05.png",
+          "imageAlt": "米米和圓圓在地毯上的故事書中，發現黃色小花書籤",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收"
+        },
+        {
+          "day": 2,
+          "status": "preview",
+          "title": "紅色的小球",
+          "summary": "紅球上有一顆黃色星星。跟著米米和圓圓，沿著森林小路找找，是誰正在想念它？",
+          "minutes": 4,
+          "href": "day-002/",
+          "image": "day-002/images/scene-01.webp",
+          "imageAlt": "米米與圓圓在大樹下發現一顆紅色黃星小球",
+          "statusText": "有聲試閱 · 聲音與正式發行待驗收"
+        },
+        {
+          "day": 3,
+          "status": "preparing"
+        },
+        {
+          "day": 4,
+          "status": "preparing"
+        },
+        {
+          "day": 5,
+          "status": "preparing"
+        },
+        {
+          "day": 6,
+          "status": "preparing"
+        },
+        {
+          "day": 7,
+          "status": "preparing"
+        },
+        {
+          "day": 8,
+          "status": "preparing"
+        },
+        {
+          "day": 9,
+          "status": "preparing"
+        },
+        {
+          "day": 10,
+          "status": "preparing"
+        },
+        {
+          "day": 11,
+          "status": "preparing"
+        },
+        {
+          "day": 12,
+          "status": "preparing"
+        },
+        {
+          "day": 13,
+          "status": "preparing"
+        },
+        {
+          "day": 14,
+          "status": "preparing"
+        },
+        {
+          "day": 15,
+          "status": "preparing"
+        },
+        {
+          "day": 16,
+          "status": "preparing"
+        },
+        {
+          "day": 17,
+          "status": "preparing"
+        },
+        {
+          "day": 18,
+          "status": "preparing"
+        },
+        {
+          "day": 19,
+          "status": "preparing"
+        },
+        {
+          "day": 20,
+          "status": "preparing"
+        },
+        {
+          "day": 21,
+          "status": "preparing"
+        },
+        {
+          "day": 22,
+          "status": "preparing"
+        },
+        {
+          "day": 23,
+          "status": "preparing"
+        },
+        {
+          "day": 24,
+          "status": "preparing"
+        },
+        {
+          "day": 25,
+          "status": "preparing"
+        },
+        {
+          "day": 26,
+          "status": "preparing"
+        },
+        {
+          "day": 27,
+          "status": "preparing"
+        },
+        {
+          "day": 28,
+          "status": "preparing"
+        },
+        {
+          "day": 29,
+          "status": "preparing"
+        },
+        {
+          "day": 30,
+          "status": "preparing"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "label": "第二冊",
+      "title": null,
+      "startDay": 31,
+      "endDay": 60,
+      "status": "planned",
+      "stories": []
+    }
+  ]
+}
