@@ -1,0 +1,19 @@
+{
+  "day": 8,
+  "title": "會走路的積木",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "e91e5dbe79ac588de4701e4d598a044a027a5ae1ce2c3b7001ee5907c174c846",
+  "audioSha256": "a926296d06fd257a0976c3cca329ddd936c3a778070502652e7324cc3e0fe7fe",
+  "durationSeconds": 242.51,
+  "sceneBoundaries": [
+    47.61,
+    94.65,
+    145.05,
+    192.64
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

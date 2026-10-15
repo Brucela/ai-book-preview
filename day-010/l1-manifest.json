@@ -1,0 +1,19 @@
+{
+  "day": 10,
+  "title": "不一樣的城堡",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "0fc6c4a146aae4ebb5fae55f1d49b1c818400354e53b676a5a356d79541148b0",
+  "audioSha256": "ddf6b599caa7199ac34dedd7d2f43826f3ffa65b4cf405ba72fa89c0881ec4c7",
+  "durationSeconds": 240.08,
+  "sceneBoundaries": [
+    43.46,
+    90.48,
+    139.04,
+    187.55
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

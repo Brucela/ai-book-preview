@@ -1,0 +1,19 @@
+{
+  "day": 9,
+  "title": "大家都要紅色車車",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "77915554010ba567a12572ed66996c2be593c8dfbc8d60236f3299cf583f9d4e",
+  "audioSha256": "eee39047002e0243a62fe8bc6250f31694092de7b0cdd33b3a24c7e3955ebd53",
+  "durationSeconds": 242.2562,
+  "sceneBoundaries": [
+    46.03,
+    97.94,
+    146.24,
+    192.98
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

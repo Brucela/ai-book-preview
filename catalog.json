@@ -88,15 +88,36 @@
         },
         {
           "day": 8,
-          "status": "preparing"
+          "status": "preview",
+          "title": "會走路的積木",
+          "summary": "換個位置看看，一起發現積木底下的小祕密。",
+          "minutes": 4,
+          "href": "day-008/",
+          "image": "day-008/images/scene-05.webp",
+          "imageAlt": "會走路的積木故事插畫",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 9,
-          "status": "preparing"
+          "status": "preview",
+          "title": "大家都要紅色車車",
+          "summary": "一台小紅車、三張木牌，朋友各有舒服的遊戲步調。",
+          "minutes": 4,
+          "href": "day-009/",
+          "image": "day-009/images/scene-05.webp",
+          "imageAlt": "大家都要紅色車車故事插畫",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 10,
-          "status": "preparing"
+          "status": "preview",
+          "title": "不一樣的城堡",
+          "summary": "高塔和長橋慢慢接在一起，替木馬留一個合適的入口。",
+          "minutes": 4,
+          "href": "day-010/",
+          "image": "day-010/images/scene-04.webp",
+          "imageAlt": "不一樣的城堡故事插畫",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 11,
