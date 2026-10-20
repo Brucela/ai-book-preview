@@ -1,0 +1,19 @@
+{
+  "day": 28,
+  "title": "原來我猜錯了",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "39cfe984e249c3e693aa40b0102aed7b257db9cca324dcfba81f982c18d7afe4",
+  "audioSha256": "d7bf789375bd3455113f5ca3c2980e60fefde016c66ef2a13173c78e9ccf7b13",
+  "durationSeconds": 231.36,
+  "sceneBoundaries": [
+    41.6,
+    88.38,
+    137.02,
+    183.6
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

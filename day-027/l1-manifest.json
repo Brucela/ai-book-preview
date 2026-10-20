@@ -1,0 +1,19 @@
+{
+  "day": 27,
+  "title": "誰說我一定要一樣",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "12d14c473a57c53328eb4184f78c7482d0a8bfd5d9b35a574a159c88ce5a5064",
+  "audioSha256": "2b2e9610301daffe46a80ef4fb0581c0ade4f83b53feb3d6235c78a2df5f825f",
+  "durationSeconds": 214.8,
+  "sceneBoundaries": [
+    41.21,
+    84.0,
+    127.16,
+    171.11
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

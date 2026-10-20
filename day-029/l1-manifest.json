@@ -1,0 +1,19 @@
+{
+  "day": 29,
+  "title": "圓圓今天自己決定",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "243fe2a512f4a48ef22399a5fd52048c8785f576b70c70d116e40f85111b6c00",
+  "audioSha256": "1117c688f086c8702d53d00ee2cde47ad3ec2efc49e36052e02cf8c55aca54bb",
+  "durationSeconds": 243.84,
+  "sceneBoundaries": [
+    45.19,
+    92.51,
+    142.21,
+    193.16
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

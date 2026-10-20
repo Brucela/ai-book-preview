@@ -297,15 +297,36 @@
         },
         {
           "day": 27,
-          "status": "preparing"
+          "status": "preview",
+          "title": "誰說我一定要一樣",
+          "summary": "銀色尖帽和藍色圓邊帽，都能在今晚的影子遊戲找到自己的樣子。",
+          "minutes": 4,
+          "href": "day-027/",
+          "image": "day-027/images/scene-05.webp",
+          "imageAlt": "兩位朋友歸還借帽，坐在長凳看星空",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 28,
-          "status": "preparing"
+          "status": "preview",
+          "title": "原來我猜錯了",
+          "summary": "一點亮光像小燈，換個位置再看看，原來還有新的發現。",
+          "minutes": 4,
+          "href": "day-028/",
+          "image": "day-028/images/scene-05.webp",
+          "imageAlt": "兩位朋友帶走觀察畫，向留在原位的反光銀石告晚安",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 29,
-          "status": "preparing"
+          "status": "preview",
+          "title": "圓圓今天自己決定",
+          "summary": "三張下午小卡，排進想做的事，也留一點能休息的時間。",
+          "minutes": 4,
+          "href": "day-029/",
+          "image": "day-029/images/scene-05.webp",
+          "imageAlt": "圓圓展示完成風鈴畫，三張任務卡已翻成太陽",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 30,
