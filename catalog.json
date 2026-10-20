@@ -253,7 +253,14 @@
         },
         {
           "day": 23,
-          "status": "preparing"
+          "status": "preview",
+          "title": "大家都說月亮是甜的",
+          "summary": "紙月燈、天空彎月與月亮糖，名字相像的東西有什麼不同？",
+          "minutes": 4,
+          "href": "day-023/",
+          "image": "day-023/images/scene-05.webp",
+          "imageAlt": "成年星星掛好紙月燈，米米圓圓與三小星在地面觀看",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 24,

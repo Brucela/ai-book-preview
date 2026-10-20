@@ -1,0 +1,19 @@
+{
+  "day": 23,
+  "title": "大家都說月亮是甜的",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "ba21c0bb70dcbb96e6508da6cc7a8997a7391cf5ad129a74c41cedc71cb60276",
+  "audioSha256": "9a5e2232a50b358f499d15de09e666223d9fa76e11ecece22bf02104d748fb68",
+  "durationSeconds": 235.0423,
+  "sceneBoundaries": [
+    44.43,
+    90.96,
+    139.58,
+    186.21
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}
