@@ -1,0 +1,19 @@
+{
+  "day": 14,
+  "title": "我們一起想辦法",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "ecdf16ade9a5121628f010cdffb68ee3f6d724d12e1378ec4fb8052161cefb1c",
+  "audioSha256": "5fa703e14fcbb530d2a2ae42d9279ceed7b6f760c26fd19aa31177d75c26291b",
+  "durationSeconds": 225.68,
+  "sceneBoundaries": [
+    40.79,
+    85.24,
+    130.82,
+    177.85
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

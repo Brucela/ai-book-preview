@@ -1,0 +1,19 @@
+{
+  "day": 16,
+  "title": "小章魚的八隻手",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "1b6f5d919635bd97eae48d3f4aa8854337410362bda787923dcb5f5d7bdc2c0b",
+  "audioSha256": "2beb9641b5827d26fab752566bee7655194cc0876b33af75c5ed393757ae07b2",
+  "durationSeconds": 255.12,
+  "sceneBoundaries": [
+    47.45,
+    92.06,
+    140.68,
+    201.79
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

@@ -143,19 +143,47 @@
         },
         {
           "day": 13,
-          "status": "preparing"
+          "status": "preview",
+          "title": "不是最大的才最好",
+          "summary": "高車走寬門、小車穿矮門，一起把野餐送到長椅旁。",
+          "minutes": 4,
+          "href": "day-013/",
+          "image": "day-013/images/scene-05.webp",
+          "imageAlt": "不是最大的才最好故事插畫",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 14,
-          "status": "preparing"
+          "status": "preview",
+          "title": "我們一起想辦法",
+          "summary": "搭好一座穩穩的玩具橋，把紙花送到窗邊。",
+          "minutes": 4,
+          "href": "day-014/",
+          "image": "day-014/images/scene-05.webp",
+          "imageAlt": "我們一起想辦法故事插畫",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 15,
-          "status": "preparing"
+          "status": "preview",
+          "title": "怕水的小海馬",
+          "summary": "留在舒服的距離，陪小海馬選一條想走的路。",
+          "minutes": 4,
+          "href": "day-015/",
+          "image": "day-015/images/scene-05.webp",
+          "imageAlt": "怕水的小海馬故事插畫",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 16,
-          "status": "preparing"
+          "status": "preview",
+          "title": "小章魚的八隻手",
+          "summary": "布片可以托著，也可以攤平，一起排出搖搖的海底風景。",
+          "minutes": 4,
+          "href": "day-016/",
+          "image": "day-016/images/scene-05.webp",
+          "imageAlt": "小章魚的八隻手故事插畫",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 17,
@@ -192,7 +220,14 @@
         },
         {
           "day": 20,
-          "status": "preparing"
+          "status": "preview",
+          "title": "米米聽錯了",
+          "summary": "再問一次、慢慢聽清楚，找到兩顆白石中間的約定。",
+          "minutes": 4,
+          "href": "day-020/",
+          "image": "day-020/images/scene-04.webp",
+          "imageAlt": "米米聽錯了故事插畫",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 21,

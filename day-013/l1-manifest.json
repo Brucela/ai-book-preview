@@ -1,0 +1,19 @@
+{
+  "day": 13,
+  "title": "不是最大的才最好",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "e42b2c1365e44fb43f48b185d9e10ff8f83e6269a3ea0875319570432e6ec4bd",
+  "audioSha256": "4834027537db460c5d44c1f39ab53a533a68c508e4e4693bf02829f6578a4dad",
+  "durationSeconds": 238.88,
+  "sceneBoundaries": [
+    43.46,
+    91.19,
+    140.07,
+    188.88
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

@@ -1,0 +1,19 @@
+{
+  "day": 20,
+  "title": "米米聽錯了",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "7ece5431ce81404359f6233b2a715707e2ea1322a32419d4191d05ff1adad970",
+  "audioSha256": "df4f428c0ea248a7df40f1e0514a7c8a7adb9ca2f7013a99e7093ea6bfde8459",
+  "durationSeconds": 231.28,
+  "sceneBoundaries": [
+    44.72,
+    87.05,
+    133.88,
+    182.3
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

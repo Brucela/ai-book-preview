@@ -1,0 +1,19 @@
+{
+  "day": 15,
+  "title": "怕水的小海馬",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "bfe0f1dece23960e382831d709b3669b3787d024bab3e5ca6ed6d08901cdfca1",
+  "audioSha256": "5596bd7994c43b33d8ce16b19772a7d370324b5d400f4b58e26d6336c406a196",
+  "durationSeconds": 230.64,
+  "sceneBoundaries": [
+    43.62,
+    89.38,
+    139.53,
+    185.86
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}
