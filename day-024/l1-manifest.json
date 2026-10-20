@@ -1,0 +1,19 @@
+{
+  "day": 24,
+  "title": "圓圓的三個辦法",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "3a5bd24ec8677cc5829c04ba9e15c4b801ef97aaf3a20cb9533c91486073de57",
+  "audioSha256": "509f61b2fbc9b86356a0db1fa2be5774767b0d2bc478844e53a557ad05f15f41",
+  "durationSeconds": 221.44,
+  "sceneBoundaries": [
+    39.39,
+    81.31,
+    131.63,
+    176.45
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

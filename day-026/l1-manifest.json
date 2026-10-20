@@ -1,0 +1,19 @@
+{
+  "day": 26,
+  "title": "小星球的大聲音",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "d8da05102f4c6ebf001852b98d27048e0a1eabbe6ff47718da67c0f03d6b5b0e",
+  "audioSha256": "6fae55c4abe1449da32a77348bd6225da86dde866c64326772e8963261ad1748",
+  "durationSeconds": 224.8867,
+  "sceneBoundaries": [
+    41.87,
+    87.41,
+    131.15,
+    177.94
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

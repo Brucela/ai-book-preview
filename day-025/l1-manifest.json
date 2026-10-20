@@ -1,0 +1,19 @@
+{
+  "day": 25,
+  "title": "哪一條路才對",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "e3e005a156975410e44f1e099cc5c6e68e0d4ad1bf5686ea22ae0c6b1cfe96c2",
+  "audioSha256": "b1f6bdd31869acb581d90207b26cf8ae623175bfc4168dd7ac3dd4c4836bd823",
+  "durationSeconds": 222.16,
+  "sceneBoundaries": [
+    43.86,
+    89.43,
+    133.34,
+    177.14
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

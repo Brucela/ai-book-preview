@@ -264,15 +264,36 @@
         },
         {
           "day": 24,
-          "status": "preparing"
+          "status": "preview",
+          "title": "圓圓的三個辦法",
+          "summary": "把三個想法畫下來，和熊伯伯一起看看怎麼讓旗子自在飄動。",
+          "minutes": 4,
+          "href": "day-024/",
+          "image": "day-024/images/scene-05.webp",
+          "imageAlt": "黃旗自在飄動，米米和圓圓把三張提案圖收進紙袋",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 25,
-          "status": "preparing"
+          "status": "preview",
+          "title": "哪一條路才對",
+          "summary": "藍路有風鈴，金路有花和長椅。看看地圖，選今天想走的路。",
+          "minutes": 4,
+          "href": "day-025/",
+          "image": "day-025/images/scene-05.webp",
+          "imageAlt": "米米圓圓在觀星台和兩顆星星分享兩條路的風景",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 26,
-          "status": "preparing"
+          "status": "preview",
+          "title": "小星球的大聲音",
+          "summary": "留在舒服的地方，看布條和風石一起帶來什麼聲音。",
+          "minutes": 4,
+          "href": "day-026/",
+          "image": "day-026/images/scene-05.webp",
+          "imageAlt": "兩位朋友在安靜畫角共同畫下布條與風石，遠丘仍在",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 27,
