@@ -1,0 +1,19 @@
+{
+  "day": 22,
+  "title": "星星真的不見了嗎",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "a9e90e966688255cb689d1445c356ecd25943349d7f266cbbfee6b9854324b32",
+  "audioSha256": "ef2476235b7a3079bcd168ef99c3459b207f6c968377a8fb9503b9546c9a2405",
+  "durationSeconds": 239.0136,
+  "sceneBoundaries": [
+    46.26,
+    92.92,
+    140.17,
+    186.55
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}

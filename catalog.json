@@ -231,11 +231,25 @@
         },
         {
           "day": 21,
-          "status": "preparing"
+          "status": "preview",
+          "title": "海底的好朋友",
+          "summary": "大圈、短路與寬空地，都能回到同一間海底郵局。",
+          "minutes": 4,
+          "href": "day-021/",
+          "image": "day-021/images/scene-05.webp",
+          "imageAlt": "五位朋友在海底郵局收好三色信封並告晚安",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 22,
-          "status": "preparing"
+          "status": "preview",
+          "title": "星星真的不見了嗎",
+          "summary": "把剛才和現在畫下來，等雲朵慢慢走過小窗戶。",
+          "minutes": 4,
+          "href": "day-022/",
+          "image": "day-022/images/scene-05.webp",
+          "imageAlt": "米米與圓圓對照三張天空小畫，在觀星台安靜看星",
+          "statusText": "製作中試閱・圖音待驗收"
         },
         {
           "day": 23,

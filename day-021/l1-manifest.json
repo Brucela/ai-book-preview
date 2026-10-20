@@ -1,0 +1,19 @@
+{
+  "day": 21,
+  "title": "海底的好朋友",
+  "tier": "L1_preview_ready_not_L2_or_L3",
+  "scenes": 5,
+  "imagesCandidate": 5,
+  "imagesMissing": [],
+  "editorialSha256": "d0341c48ad95833e05215aff38a600b1535bc5247bb9f6dde3dc254b3bdb7791",
+  "audioSha256": "f99606b2602fd0554e0d82306db6d2b0754d41d2e72828c52d59199ccd522b3d",
+  "durationSeconds": 229.28,
+  "sceneBoundaries": [
+    42.5,
+    87.7,
+    132.61,
+    179.79
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false
+}
