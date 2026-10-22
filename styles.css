@@ -33,3 +33,5 @@
 @media(max-width:600px){.hero-actions{justify-content:center}.catalogue ol{grid-template-columns:1fr}.catalogue li{min-height:54px}.hero-art figcaption{position:static;background:transparent;color:#5b665e;text-align:center;padding:12px 0 0}.story img{aspect-ratio:1.25;object-fit:contain;align-self:center}.brand{line-height:1.5}.book.planned strong{font-size:22px}.book .range{font-size:10px}}
 @media(max-width:360px){.wrap{width:calc(100% - 28px)}header{align-items:flex-start;gap:10px}.brand{font-size:14px;max-width:180px}.brand .moon{font-size:26px}nav{gap:10px;flex-shrink:0;font-size:11px;padding-top:4px}.hero h1{font-size:31px}.books{gap:17px;padding-inline:0}.book{padding:18px 11px 16px 21px;min-height:252px}.book strong{font-size:23px}.book.planned{min-height:232px}.book.planned strong{font-size:20px}.book img{height:72px}.book .range{font-size:9px}.book small{font-size:10px}.story{display:block}.story img{width:100%;max-width:none;aspect-ratio:16/9;object-fit:contain;margin-bottom:18px}.story h3{font-size:22px}.tabs button{padding:8px 13px}}
 
+
+.book .volume-two-cover{object-fit:contain;object-position:center;background:#dce5d6}
