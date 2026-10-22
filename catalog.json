@@ -351,21 +351,14 @@
       "stories": [
         {
           "day": 21,
+          "status": "preview",
           "title": "誰把泥地上的畫擦掉了？",
-          "status": "audio_preview",
-          "href": "volume-02-pilot/?story=21"
-        },
-        {
-          "day": 13,
-          "title": "不見的古堡，藏在哪裡？",
-          "status": "text_preview",
-          "href": "volume-02-pilot/?story=13"
-        },
-        {
-          "day": 7,
-          "title": "一碗要留到明年的飯",
-          "status": "text_preview",
-          "href": "volume-02-pilot/?story=07"
+          "summary": "在高美濕地的木棧道上，和米米、圓圓一起觀察小螃蟹留下的線條，找找潮水帶來的變化。",
+          "minutes": 3,
+          "href": "volume-02-pilot/day-021/",
+          "image": "volume-02-pilot/day-021/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在高美濕地木棧道上展開故事書",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收"
         }
       ]
     }
