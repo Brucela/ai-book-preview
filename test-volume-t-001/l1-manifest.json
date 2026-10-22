@@ -1,0 +1,27 @@
+{
+  "volume": "test-volume",
+  "story": "t-001",
+  "title": "葉子小船的旅行",
+  "tier": "L1_preview_in_progress_art_missing",
+  "scenes": 5,
+  "imagesCandidate": 0,
+  "imagesMissing": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "editorialSha256": "8ef9d22edc7fb4753eae1cb0da764efc56ca2d114f0e87a03b02ae0e0a1a8354",
+  "audioSha256": "8fc83e6cb1dfd407f980448c2370f6ec894394f64cc4591e18372ac261c19f02",
+  "durationSeconds": 203.84,
+  "sceneBoundaries": [
+    39.07,
+    78.82,
+    118.7,
+    159.36
+  ],
+  "publicReleaseApproved": false,
+  "level2Approved": false,
+  "artBlocker": "No image tool available in this session; canonical prompts prepared and preflight-passed but not submitted."
+}
