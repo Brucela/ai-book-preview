@@ -1,5 +1,5 @@
 {
-  "status": "L1 文字試閱（插畫與BlueMagpie配音尚未完成）",
+  "status": "L1 製作中試閱：三篇文字，一篇完整語音；分鏡插畫尚未完成",
   "stories": [
     {
       "day": "21",
@@ -35,7 +35,20 @@
         "參觀時遵守木棧道及保護區規範，保持距離，不追逐動物。"
       ],
       "question": "如果明天再來，泥地上的圖案會和今天一模一樣嗎？",
-      "source": "https://taichung.travel/zh-tw/attractions/intro/1416"
+      "source": "https://taichung.travel/zh-tw/attractions/intro/1416",
+      "audio": {
+        "src": "day-021/story.m4a",
+        "durationSeconds": 162.88,
+        "voice": "amberchen",
+        "sceneStarts": [
+          2.56,
+          29.28,
+          60.8,
+          84.48,
+          109.12
+        ],
+        "extrasStart": 131.2
+      }
     },
     {
       "day": "13",

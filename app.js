@@ -18,10 +18,10 @@ function firstVolumeCounts() {
 function announceResults() {
   const counts = firstVolumeCounts();
   const message = selectedVolume === 2
-    ? '第二冊仍在規劃中，尚無可試閱故事。'
+    ? '第二冊已開放三篇文字試作，其中一篇提供 amberchen 完整朗讀，插畫製作中。'
     : selectedFilter === 'ready'
       ? `第一冊目前有 ${counts.ready} 篇可以試閱。`
-      : `第一冊規劃 ${counts.total} 篇，目前 ${counts.ready} 篇可以試閱，${counts.preparing} 篇準備中。`;
+      : counts.preparing === 0 ? `第一冊 ${counts.total} 篇均可試閱。` : `第一冊規劃 ${counts.total} 篇，目前 ${counts.ready} 篇可以試閱，${counts.preparing} 篇準備中。`;
   byId('result-status').textContent = message;
 }
 
@@ -33,15 +33,15 @@ function renderSelection() {
   byId('collection-title').textContent = first ? '第一冊的故事' : '第二冊的故事';
   byId('collection-description').textContent = first
     ? `第 001–030 夜，目前開放 ${counts.ready} 篇試閱。`
-    : '第 031–060 夜，目前仍在規劃中。';
+    : '台灣奇妙旅行：三篇文字試作，一篇完整語音。';
   byId('volume-one').hidden = !first;
   byId('volume-two').hidden = first;
   byId('filters').hidden = !first;
-  byId('coming').hidden = selectedFilter === 'ready';
+  byId('coming').hidden = selectedFilter === 'ready' || counts.preparing === 0;
   byId('catalogue').hidden = !catalog || selectedFilter === 'ready';
-  byId('shelf-status').textContent = first ? `第一冊開放 ${counts.ready} 篇有聲試閱` : '第二冊尚未開放';
+  byId('shelf-status').textContent = first ? `第一冊開放 ${counts.ready} 篇有聲試閱` : '第二冊開放 3 篇文字試作、1 篇有聲';
   bookButtons[0].querySelector('.range').textContent = `第 001–030 夜 · 目前 ${counts.ready} 篇可試閱`;
-  byId('catalogue').querySelector('.catalogue-description').textContent = `目前 ${counts.ready} 篇可試閱。其他故事準備好後，會陸續開放。`;
+  byId('catalogue').querySelector('.catalogue-description').textContent = counts.preparing === 0 ? `本冊 ${counts.ready} 篇均可試閱，插畫與聲音仍待家長整體確認。` : `目前 ${counts.ready} 篇可試閱。其他故事準備好後，會陸續開放。`;
   byId('catalog-error').hidden = !catalogFailed || !first;
 }
 
@@ -114,7 +114,7 @@ function renderCatalog(data) {
   byId('ready-stories').replaceChildren(cards);
 }
 
-fetch('catalog.json', { credentials: 'same-origin' })
+fetch('catalog.json?v=20261022-amberchen', { credentials: 'same-origin' })
   .then((response) => {
     if (!response.ok) throw new Error('catalog unavailable');
     return response.json();

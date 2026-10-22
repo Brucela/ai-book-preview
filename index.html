@@ -4,11 +4,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="robots" content="noindex,nofollow,noarchive,nosnippet">
-  <meta name="description" content="跟著白兔米米與棕熊圓圓，一起讀一篇暖暖的睡前故事。目前開放前兩篇有聲試閱。">
+  <meta name="description" content="跟著白兔米米與棕熊圓圓，一起讀一篇暖暖的睡前故事。第一冊 30 篇有聲試閱，第二冊三篇文字試作與高美濕地完整朗讀。">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
   <title>米米和圓圓的晚安書房</title>
   <link rel="stylesheet" href="styles.css">
-  <script src="app.js" defer></script>
+  <script src="app.js?v=20261022-amberchen" defer></script>
 </head>
 <body>
 <a class="skip-link" href="#main">跳到故事內容</a>
@@ -39,20 +39,20 @@
           <button class="book" type="button" data-volume="1" aria-pressed="true" aria-controls="collection">
             <small>第一冊 · 米米和圓圓</small><strong>晚安<br>故事書</strong>
             <img src="day-001/images/scene-01.png" width="1280" height="720" loading="lazy" alt="第一冊封面示意：兩位朋友發現書架上的星星故事書">
-            <span class="range">第 001–030 夜 · 目前 2 篇可試閱</span>
+            <span class="range">第 001–030 夜 · 目前 30 篇可試閱</span>
           </button>
           <button class="book planned" type="button" data-volume="2" aria-pressed="false" aria-controls="collection">
-            <small>第二冊</small><strong>下一本<br>故事</strong><span class="line-moon" aria-hidden="true">☾</span>
-            <span class="range">第 031–060 夜 · 規劃中</span><span class="planning-label">書封與書名規劃示意</span>
+            <small>第二冊</small><strong>台灣<br>奇妙旅行</strong><span class="line-moon" aria-hidden="true">☾</span>
+            <span class="range">3 篇文字試作 · 1 篇有聲</span><span class="planning-label">書封版面示意</span>
           </button>
         </div>
-        <aside class="shelf-aside"><p class="small-title">每晚一個故事，<br>留一點時間給彼此。</p><p>白兔米米戴著紅領結，<br>小熊圓圓穿著藍色牛仔吊帶褲。<br>他們的冒險，就從一本書開始。</p><span class="availability" id="shelf-status">第一冊開放 2 篇有聲試閱</span></aside>
+        <aside class="shelf-aside"><p class="small-title">每晚一個故事，<br>留一點時間給彼此。</p><p>白兔米米戴著紅領結，<br>小熊圓圓穿著藍色牛仔吊帶褲。<br>他們的冒險，就從一本書開始。</p><span class="availability" id="shelf-status">第一冊開放 30 篇有聲試閱</span></aside>
       </div>
     </section>
 
     <section class="collection" id="collection" aria-labelledby="collection-title">
       <div class="collection-top">
-        <div class="collection-head"><h2 id="collection-title" tabindex="-1">第一冊的故事</h2><p id="collection-description">第 001–030 夜，目前開放 2 篇試閱。</p></div>
+        <div class="collection-head"><h2 id="collection-title" tabindex="-1">第一冊的故事</h2><p id="collection-description">第 001–030 夜，目前開放 30 篇試閱。</p></div>
         <div class="tabs" id="filters" role="group" aria-label="故事篩選"><button type="button" data-filter="all" aria-pressed="true">全部故事</button><button type="button" data-filter="ready" aria-pressed="false">可以試閱</button></div>
       </div>
       <p id="catalog-error" class="catalog-error" hidden>完整目錄暫時無法載入。你仍可打開下方第一篇故事，或重新整理頁面。</p>
@@ -65,19 +65,19 @@
               <div><span class="night">第 001 夜 · 約 4 分鐘</span><h3>會發光的故事書</h3><p>書架上的一點金光，帶來第一場小小冒險。月光花園裡，有什麼正在等他們呢？</p><a class="read" href="day-001/">打開故事，讀給你聽</a><div class="tiny">有聲試閱 · 插畫與聲音待驗收</div></div>
             </article>
           </div>
-          <div class="coming" id="coming"><span class="coming-symbol" aria-hidden="true">✧</span><div><h3>更多晚安故事，準備中</h3><p>這冊規劃 30 篇，完成試閱準備後，<br>就會出現在這裡。</p></div></div>
+          <div class="coming" id="coming" hidden><span class="coming-symbol" aria-hidden="true">✧</span><div><h3>更多晚安故事，準備中</h3><p>這冊規劃 30 篇，完成試閱準備後，<br>就會出現在這裡。</p></div></div>
         </div>
         <details class="catalogue" id="catalogue" hidden>
           <summary>翻看第一冊 30 個夜晚的目錄</summary>
-          <p class="catalogue-description">目前 2 篇可試閱。其他故事準備好後，會陸續開放。</p>
+          <p class="catalogue-description">本冊 30 篇均可試閱，插畫與聲音仍待家長整體確認。</p>
           <ol id="story-directory" aria-label="第一冊完整目錄"></ol>
         </details>
       </div>
-      <div id="volume-two" class="empty" hidden><h3>第二冊，還在慢慢長大。</h3><p>第二冊是規劃示意，目前尚未開放。書名與故事內容會在確認後補上。</p><button class="secondary" type="button" id="back-first">回第一冊挑故事</button></div>
-      <noscript><p class="catalogue-description">可直接開啟上方第一篇故事。選冊、篩選與完整目錄需要啟用 JavaScript；其他故事目前準備中。</p></noscript>
+      <div id="volume-two" class="empty" hidden><h3>台灣奇妙旅行・三篇試閱</h3><p>高美濕地、安平古堡、太巴塱三篇文字與知識卡已開放。<br>《誰把泥地上的畫擦掉了？》已有 amberchen 完整朗讀，約 2 分 43 秒；分鏡插畫仍在製作中。</p><p><a class="read" href="volume-02-pilot/?story=21">聽高美濕地的故事</a> · <a class="text-link" href="volume-02-pilot/">閱讀第二冊三篇試作</a></p><button class="secondary" type="button" id="back-first">回第一冊挑故事</button></div>
+      <noscript><p class="catalogue-description">可直接開啟上方第一篇故事。選冊、篩選與完整目錄需要啟用 JavaScript。第二冊三篇文字試作可由上方連結開啟。</p></noscript>
     </section>
 
-    <section class="about" id="parents"><details><summary>給一起讀故事的家長</summary><p>每篇約 3–5 分鐘，適合三歲起親子共讀。不必急著回答問題，也可以只是看看畫、聽聽故事，再說晚安。</p><p>目前開放《會發光的故事書》與《紅色的小球》兩篇有聲試閱。每幕都有插畫，畫面與聲音仍待家長整體確認。旁白是 Serena A 候選聲音，可能帶非台灣國語口音，配音待確認；你按下播放後才會開始。</p><p>這是公開候選試閱，持有網址的人都可以觀看；尚未完成美術、聲音及正式出版相關驗收。首頁書封是版面示意，第二冊仍在規劃中。</p></details></section>
+    <section class="about" id="parents"><details><summary>給一起讀故事的家長</summary><p>適合三歲起親子共讀，每篇長度依故事內容而不同，以播放器顯示為準。不必急著回答問題，也可以只是看看畫、聽聽故事，再說晚安。</p><p>第一冊 30 篇有聲試閱已開放，各幕有候選插畫，畫面與聲音仍待家長整體確認。第一冊旁白為 Serena A 候選聲音，可能帶非台灣國語口音；第二冊已開放三篇文字試作，其中《誰把泥地上的畫擦掉了？》使用 amberchen 音色，提供約 2 分 43 秒的完整朗讀，含篇名、五幕標題與正文、記憶點、知識卡和提問。你按下播放後，聲音才會開始。</p><p>這是公開候選試閱，持有網址的人都可以觀看；尚未完成美術、聲音及正式出版相關驗收。首頁書封是版面示意；第二冊分鏡插畫與另外兩篇語音仍在製作中，頁面會明確標示缺件。</p></details></section>
   </main>
 </div>
 <footer><div class="wrap"><span>米米和圓圓的晚安故事書</span><span>親子共讀 · 候選試閱</span></div></footer>

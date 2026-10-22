@@ -344,11 +344,30 @@
     {
       "number": 2,
       "label": "第二冊",
-      "title": null,
+      "title": "台灣奇妙旅行",
       "startDay": 31,
       "endDay": 60,
-      "status": "planned",
-      "stories": []
+      "status": "pilot",
+      "stories": [
+        {
+          "day": 21,
+          "title": "誰把泥地上的畫擦掉了？",
+          "status": "audio_preview",
+          "href": "volume-02-pilot/?story=21"
+        },
+        {
+          "day": 13,
+          "title": "不見的古堡，藏在哪裡？",
+          "status": "text_preview",
+          "href": "volume-02-pilot/?story=13"
+        },
+        {
+          "day": 7,
+          "title": "一碗要留到明年的飯",
+          "status": "text_preview",
+          "href": "volume-02-pilot/?story=07"
+        }
+      ]
     }
   ]
 }
