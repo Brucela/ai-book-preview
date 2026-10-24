@@ -415,6 +415,45 @@
           "durationSeconds": 134.08
         },
         {
+          "day": 10,
+          "status": "preview",
+          "title": "海上的橋像一條龍",
+          "summary": "神奇故事書畫出好幾個連起來的彎，像一條正在伸懶腰的龍。米米和圓圓來到臺東三仙台，在本島開放的觀景區停下。遠方，八拱橋一彎接一彎，連向海上的小島。入口有封閉整修的告示，兩位朋友便和導覽阿姨留在外面。圓圓把書抱高一點：「今天從這裡看，也能看見龍的背。」",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-010/",
+          "image": "volume-02-pilot/day-010/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在臺東縣 · 三仙台的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "臺東縣 · 三仙台",
+          "durationSeconds": 135.52
+        },
+        {
+          "day": 18,
+          "status": "preview",
+          "title": "屋頂下不用澆水的花",
+          "summary": "神奇故事書翻出一朵棕色小花，帶米米和圓圓來到彰化鹿港龍山寺。兩位朋友和導覽阿姨走在開放參觀的地方，抬頭看見木頭上細細的花紋。花瓣一片接著一片，安穩留在屋簷下面。「這些花不用等春天，也不用澆水。」米米輕聲說。圓圓站在她旁邊，慢慢找出葉子彎過去的方向。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-018/",
+          "image": "volume-02-pilot/day-018/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在彰化縣 · 鹿港的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "彰化縣 · 鹿港",
+          "durationSeconds": 135.68
+        },
+        {
+          "day": 30,
+          "status": "preview",
+          "title": "海面上輕輕的一次招呼",
+          "summary": "神奇故事書翻到臺灣地圖，山、河、房子和小動物的印記，在紙上安靜亮著。南邊海上還留著一個小空位，帶米米和圓圓來到屏東外海的小琉球。解說員姐姐陪他們站在岸上適當的觀景位置，和浪線保持距離。「今天先看看海，能不能遇見海龜，要讓牠自己決定。」姐姐說，兩位朋友便舒服地等一會兒。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-030/",
+          "image": "volume-02-pilot/day-030/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在屏東縣 · 小琉球的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "屏東縣 · 小琉球",
+          "durationSeconds": 141.6
+        },
+        {
           "day": 1,
           "status": "preparing"
         },
@@ -439,10 +478,6 @@
           "status": "preparing"
         },
         {
-          "day": 10,
-          "status": "preparing"
-        },
-        {
           "day": 11,
           "status": "preparing"
         },
@@ -464,10 +499,6 @@
         },
         {
           "day": 17,
-          "status": "preparing"
-        },
-        {
-          "day": 18,
           "status": "preparing"
         },
         {
@@ -508,10 +539,6 @@
         },
         {
           "day": 29,
-          "status": "preparing"
-        },
-        {
-          "day": 30,
           "status": "preparing"
         }
       ]
