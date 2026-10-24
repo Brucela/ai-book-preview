@@ -354,39 +354,39 @@
           "status": "preview",
           "title": "誰把泥地上的畫擦掉了？",
           "summary": "在高美濕地的木棧道上，和米米、圓圓一起觀察小螃蟹留下的線條，找找潮水帶來的變化。",
-          "minutes": 3,
+          "minutes": 2,
           "href": "volume-02-pilot/day-021/",
           "image": "volume-02-pilot/day-021/images/scene-01.webp",
           "imageAlt": "米米和圓圓在高美濕地木棧道上展開故事書",
           "statusText": "有聲試閱 · 插畫與聲音待驗收",
           "place": "臺中 · 高美濕地",
-          "durationSeconds": 162.88
+          "durationSeconds": 123.68
         },
         {
           "day": 13,
           "status": "preview",
           "title": "不見的古堡，藏在哪裡？",
           "summary": "走進安平古堡，從紅磚老牆與白色瞭望臺，找找不同年代留下的線索。",
-          "minutes": 3,
+          "minutes": 2,
           "href": "volume-02-pilot/day-013/",
           "image": "volume-02-pilot/day-013/images/scene-01.webp",
           "imageAlt": "米米和圓圓拿著故事書，對照安平古堡白色瞭望臺與紅磚古牆",
           "statusText": "有聲試閱 · 插畫與聲音待驗收",
           "place": "臺南 · 安平古堡",
-          "durationSeconds": 169.6
+          "durationSeconds": 123.52091666666666
         },
         {
           "day": 7,
           "status": "preview",
           "title": "一碗要留到明年的飯",
           "summary": "在花蓮太巴塱，和阿禾一起看看帶殼稻穀、紅糯米，以及留給下一次耕作的種子。",
-          "minutes": 3,
+          "minutes": 2,
           "href": "volume-02-pilot/day-007/",
           "image": "volume-02-pilot/day-007/images/scene-01.webp",
           "imageAlt": "米米和圓圓在阿禾家的木桌旁，觀察帶殼稻穀與紅糯米",
           "statusText": "有聲試閱 · 插畫與聲音待驗收",
           "place": "花蓮 · 太巴塱",
-          "durationSeconds": 174.24
+          "durationSeconds": 130.08
         },
         {
           "day": 1,
