@@ -116,7 +116,7 @@ function renderCatalog(data) {
   byId('ready-stories').replaceChildren(cards);
 }
 
-fetch('catalog.json?v=20261024-volume02-body-only', { credentials: 'same-origin' })
+fetch('catalog.json?v=volume02-9dcfd7799c5f', { credentials: 'same-origin' })
   .then((response) => {
     if (!response.ok) throw new Error('catalog unavailable');
     return response.json();

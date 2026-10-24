@@ -389,15 +389,33 @@
           "durationSeconds": 130.08
         },
         {
-          "day": 1,
-          "status": "preparing"
-        },
-        {
           "day": 2,
-          "status": "preparing"
+          "status": "preview",
+          "title": "老浴池今天聽故事",
+          "summary": "神奇故事書翻開一扇彩色窗，把米米和圓圓帶到北投溫泉博物館。「今天來看老房子。」米米讀著導覽圖。大大的浴池安安靜靜，池邊沒有拿毛巾洗澡的人。圓圓站在參觀走道上，看著池裡的空間：「它好像一個正在休息的大碗。」陽光從窗子進來，在地面鋪了一塊亮亮的顏色。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-002/",
+          "image": "volume-02-pilot/day-002/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在臺北市 · 北投的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "臺北市 · 北投",
+          "durationSeconds": 132.0
         },
         {
           "day": 3,
+          "status": "preview",
+          "title": "送到河對岸的招呼",
+          "summary": "故事書裡傳來噗噗的聲音，米米和圓圓來到淡水河邊。河好寬，對岸的房子變成小小一排。一艘渡船正慢慢靠近，船頭推開亮亮的水。「它從那邊過來了。」米米指著對岸。圓圓抱好故事書，在岸上的候船區等著。他想知道，這艘船今天載著什麼樣的相遇。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-003/",
+          "image": "volume-02-pilot/day-003/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在新北市 · 淡水的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "新北市 · 淡水",
+          "durationSeconds": 134.08
+        },
+        {
+          "day": 1,
           "status": "preparing"
         },
         {
