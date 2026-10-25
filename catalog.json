@@ -389,6 +389,19 @@
           "durationSeconds": 130.08
         },
         {
+          "day": 1,
+          "status": "preview",
+          "title": "把高高的房子裝進書裡",
+          "summary": "晚安以前，圓圓打開神奇故事書。臺灣地圖的北邊，冒出一棟一節一節往上長的綠色高樓。米米伸長耳朵：「這一頁好高喔！」書頁輕輕一亮，將他們送到臺北象山的觀景平台。平台有穩穩的欄杆，身後是樹，眼前是好多好多房子。高高的台北一〇一，就站在房子中間。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-001/",
+          "image": "volume-02-pilot/day-001/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在臺北市 · 象山的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "臺北市 · 象山",
+          "durationSeconds": 127.36
+        },
+        {
           "day": 2,
           "status": "preview",
           "title": "老浴池今天聽故事",
@@ -415,6 +428,45 @@
           "durationSeconds": 134.08
         },
         {
+          "day": 4,
+          "status": "preview",
+          "title": "石頭今天戴什麼帽子？",
+          "summary": "故事書畫出一排奇妙的輪廓，把米米和圓圓帶到野柳。海在遠方亮著，步道旁的岩石，有的上面寬、有的下面細。圓圓停在指定的參觀路線上：「這裡好像一間石頭帽子店！」米米看著一塊圓圓的岩石：「我想到的是香菇。」兩人把手背在身後，慢慢用眼睛逛這間沒有門的店。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-004/",
+          "image": "volume-02-pilot/day-004/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在新北市 · 野柳的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "新北市 · 野柳",
+          "durationSeconds": 131.68
+        },
+        {
+          "day": 8,
+          "status": "preview",
+          "title": "口袋裡不必放石頭",
+          "summary": "故事書翻出一道彎彎的藍線，米米和圓圓來到花蓮七星潭。他們和解說員姐姐留在遠離浪線的觀景步道，往下看見一大片石頭海岸。海浪推上來，又退回去，帶著沙啦啦的聲音。「這片海灣像一彎月亮。」米米說。圓圓抱著小畫本，看見灰色、白色的石頭，在陽光下各有自己的模樣。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-008/",
+          "image": "volume-02-pilot/day-008/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在花蓮縣 · 七星潭的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "花蓮縣 · 七星潭",
+          "durationSeconds": 135.52
+        },
+        {
+          "day": 9,
+          "status": "preview",
+          "title": "稻田的顏色還沒畫完",
+          "summary": "米米替旅行準備了一盒綠色蠟筆，圓圓又加上一枝黃色。「書上這一站，有好多稻田。」他說。神奇故事書帶他們來到臺東池上，遠山安靜地排在天邊，路旁的田一格一格向前伸展。一邊偏綠，一邊帶著金黃，風來的時候，稻葉一起搖了搖。米米把畫板抱在胸前，先看了一會兒。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-009/",
+          "image": "volume-02-pilot/day-009/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在臺東縣 · 池上的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "臺東縣 · 池上",
+          "durationSeconds": 136.32
+        },
+        {
           "day": 10,
           "status": "preview",
           "title": "海上的橋像一條龍",
@@ -426,6 +478,71 @@
           "statusText": "有聲試閱 · 插畫與聲音待驗收",
           "place": "臺東縣 · 三仙台",
           "durationSeconds": 135.52
+        },
+        {
+          "day": 12,
+          "status": "preview",
+          "title": "橋先讓船過一下",
+          "summary": "神奇故事書畫出一條白白的線，帶米米和圓圓來到高雄大港橋。橋身伸向水面，像一片長長的白葉子。港邊的老倉庫、船和高樓，都有自己的位置。兩位朋友走到岸上的等候區，看見工作人員正引導遊客離開橋面。「橋等一下要轉動，請在這裡看。」工作人員說，他們便停好腳步。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-012/",
+          "image": "volume-02-pilot/day-012/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在高雄市 · 大港橋的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "高雄市 · 大港橋",
+          "durationSeconds": 133.76
+        },
+        {
+          "day": 14,
+          "status": "preview",
+          "title": "太陽留下的小白山",
+          "summary": "故事書打開一片閃亮格子，把米米和圓圓送到臺南北門的井仔腳瓦盤鹽田。這裡的田沒有一排排稻子，卻有水面映著天空，有些地方堆起白白的小山。圓圓站在開放的參觀步道上：「像把白雲收成一小堆。」米米看看腳邊的瓦片，又看看遠處的鹽工工具，想知道這些小山怎麼來的。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-014/",
+          "image": "volume-02-pilot/day-014/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在臺南市 · 井仔腳的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "臺南市 · 井仔腳",
+          "durationSeconds": 134.72
+        },
+        {
+          "day": 15,
+          "status": "preview",
+          "title": "老火車今天不用趕路",
+          "summary": "神奇故事書帶米米和圓圓來到嘉義車庫園區。車輪一個接著一個，穩穩停在保存區裡，沒有急著往前跑。圓圓站在開放參觀的步道上，仔細看一輛老火車。「今天不用搭車，也能來看它。」米米說。樹影慢慢移過車身，兩位朋友沿著標示走，想看看這些輪子曾經陪誰出過門。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-015/",
+          "image": "volume-02-pilot/day-015/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在嘉義市 · 林業鐵路車庫園區的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "嘉義市 · 林業鐵路車庫園區",
+          "durationSeconds": 139.52
+        },
+        {
+          "day": 16,
+          "status": "preview",
+          "title": "樹梢上的小小空位",
+          "summary": "故事書翻出一片深深淺淺的綠，米米和圓圓來到阿里山。陪同的導覽阿姨帶他們走在開放步道上，樹幹高高站著，枝葉在頭頂交會。圓圓抬起下巴，帽子似的樹冠中間，留著幾塊亮亮的天空。米米停在阿姨身旁：「這裡不只有綠色，還有光住的小空位。」一陣涼涼的風，剛好走過他們的耳邊。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-016/",
+          "image": "volume-02-pilot/day-016/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在嘉義縣 · 阿里山的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "嘉義縣 · 阿里山",
+          "durationSeconds": 135.68
+        },
+        {
+          "day": 17,
+          "status": "preview",
+          "title": "小小衣袖裡的大舞台",
+          "summary": "故事書翻出一件小小的布衣，帶米米和圓圓來到雲林虎尾的布袋戲館。櫃子裡的戲偶有自己的衣服和表情，兩位朋友隔著展示櫃慢慢看。教學的阿姨另外拿來一尊體驗用的小偶，放在矮桌上。「這一尊，可以在我的陪伴下試試看。」她說。圓圓望望小衣袖，米米望望那張小小的臉，都坐得直了一點。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-017/",
+          "image": "volume-02-pilot/day-017/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在雲林縣 · 虎尾的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "雲林縣 · 虎尾",
+          "durationSeconds": 138.88
         },
         {
           "day": 18,
@@ -441,6 +558,110 @@
           "durationSeconds": 135.68
         },
         {
+          "day": 20,
+          "status": "preview",
+          "title": "雲朵沒有買船票",
+          "summary": "神奇故事書翻出一片藍，米米和圓圓來到日月潭水社附近的開放步道。他們留在欄杆內側，看山的形狀落在水面，也看見一朵白雲的倒影。「湖裡像放了一個白枕頭。」圓圓說。米米先看水，再抬頭看天空：「真的雲在上面，下面是它映出來的樣子。」兩個白白的輪廓，一高一低，剛好互相陪伴。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-020/",
+          "image": "volume-02-pilot/day-020/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在南投縣 · 日月潭的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "南投縣 · 日月潭",
+          "durationSeconds": 135.36
+        },
+        {
+          "day": 22,
+          "status": "preview",
+          "title": "木頭上停了一隻小鳥",
+          "summary": "故事書帶米米和圓圓來到苗栗三義。展覽空間裡，一隻木雕小鳥停在底座上，翅膀收得好好的。「牠好像剛剛唱完一首歌。」米米說。圓圓隔著參觀距離看，發現鳥肚子有一圈圈木紋。「這些線，也住在牠身上。」兩位朋友把手放在身前，沒有摸作品，先沿著那道彎彎的線慢慢看。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-022/",
+          "image": "volume-02-pilot/day-022/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在苗栗縣 · 三義的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "苗栗縣 · 三義",
+          "durationSeconds": 134.24
+        },
+        {
+          "day": 23,
+          "status": "preview",
+          "title": "借一點窗外的光",
+          "summary": "神奇故事書帶米米和圓圓來到新竹市玻璃工藝博物館。展櫃裡的作品，有的透著光，有的顏色深一些，還有圓圓彎彎的形狀。圓圓把臉留在適當距離外：「這個看得見後面，那個只亮亮的。」米米點頭，陪他一件一件看。兩位朋友沒有敲展櫃，也沒有伸手摸，只讓窗邊的光，帶眼睛慢慢走過去。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-023/",
+          "image": "volume-02-pilot/day-023/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在新竹市 · 玻璃工藝博物館的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "新竹市 · 玻璃工藝博物館",
+          "durationSeconds": 138.88
+        },
+        {
+          "day": 24,
+          "status": "preview",
+          "title": "風把柿子慢慢抱小了",
+          "summary": "故事書翻出好多橘色圓點，帶米米和圓圓來到新竹縣新埔的一處曬柿場。這是秋天，架上排著一盤一盤去皮的柿子，風正從盤子旁經過。接待的阿姨請他們留在參觀區，先看看剛準備好的那一批。圓圓站穩腳步：「像把小太陽放在竹盤裡。」米米聞到淡淡的果香，把耳朵輕輕轉向風來的方向。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-024/",
+          "image": "volume-02-pilot/day-024/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在新竹縣 · 新埔的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "新竹縣 · 新埔",
+          "durationSeconds": 141.92
+        },
+        {
+          "day": 25,
+          "status": "preview",
+          "title": "兩塊木頭握握手",
+          "summary": "神奇故事書帶米米和圓圓來到桃園大溪，一位木藝老師正在示範接合的樣子。桌上放著處理平滑的大型教具，一塊有凸出的部分，另一塊有相對應的凹口。圓圓把手放在桌邊，米米先看看兩個方向。「像有一個地方，剛好在等另一塊。」她說。老師把真正加工用的工具留在另一側，沒有交給兩位朋友。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-025/",
+          "image": "volume-02-pilot/day-025/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在桃園市 · 大溪的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "桃園市 · 大溪",
+          "durationSeconds": 142.24
+        },
+        {
+          "day": 27,
+          "status": "preview",
+          "title": "村口那張大大的臉",
+          "summary": "神奇故事書帶米米和圓圓來到金門一處聚落。村口有一尊風獅爺，臉大大的，穩穩站在自己的位置。圓圓在公共步道上停下，看看牠的眉毛，又看看嘴巴。「這張臉，好像正在說一句很有精神的話。」他說。米米點頭，沒有爬上石座。風從屋旁的小路吹過，兩位朋友把故事書抱穩，慢慢欣賞這位安靜的村口朋友。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-027/",
+          "image": "volume-02-pilot/day-027/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在金門縣 · 聚落風獅爺的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "金門縣 · 聚落風獅爺",
+          "durationSeconds": 142.72
+        },
+        {
+          "day": 28,
+          "status": "preview",
+          "title": "石頭屋一層一層靠著山",
+          "summary": "神奇故事書翻出一層一層的小屋，帶米米和圓圓來到馬祖北竿的芹壁。石頭屋順著山坡排列，前方是彎彎的海灣。兩位朋友和導覽姐姐站在公共觀景處，看見低一些的屋頂，也看見高一些的窗。「像大家排好位置，一起看海。」圓圓說。米米抱著書點點頭，讓走過身旁的居民先通過，慢慢欣賞這裡的生活。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-028/",
+          "image": "volume-02-pilot/day-028/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在連江縣 · 馬祖芹壁的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "連江縣 · 馬祖芹壁",
+          "durationSeconds": 142.56
+        },
+        {
+          "day": 29,
+          "status": "preview",
+          "title": "竹籃也有小窗戶",
+          "summary": "神奇故事書帶米米和圓圓來到南投竹山，一位竹編老師把完成的籃子放在展示桌上。細細的竹條一上一下交會，中間留著小小的空隙。圓圓從適當距離看：「這個籃子，也有一排小窗戶。」米米順著其中一條找，找到它從另一條下面走過去。老師把加工工具留在自己的工作區，請兩位朋友先坐到體驗桌旁。",
+          "minutes": 2,
+          "href": "volume-02-pilot/day-029/",
+          "image": "volume-02-pilot/day-029/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在南投縣 · 竹山的候選故事插畫",
+          "statusText": "有聲試閱 · 插畫與聲音待驗收",
+          "place": "南投縣 · 竹山",
+          "durationSeconds": 141.28
+        },
+        {
           "day": 30,
           "status": "preview",
           "title": "海面上輕輕的一次招呼",
@@ -454,14 +675,6 @@
           "durationSeconds": 141.6
         },
         {
-          "day": 1,
-          "status": "preparing"
-        },
-        {
-          "day": 4,
-          "status": "preparing"
-        },
-        {
           "day": 5,
           "status": "preparing"
         },
@@ -470,35 +683,7 @@
           "status": "preparing"
         },
         {
-          "day": 8,
-          "status": "preparing"
-        },
-        {
-          "day": 9,
-          "status": "preparing"
-        },
-        {
           "day": 11,
-          "status": "preparing"
-        },
-        {
-          "day": 12,
-          "status": "preparing"
-        },
-        {
-          "day": 14,
-          "status": "preparing"
-        },
-        {
-          "day": 15,
-          "status": "preparing"
-        },
-        {
-          "day": 16,
-          "status": "preparing"
-        },
-        {
-          "day": 17,
           "status": "preparing"
         },
         {
@@ -506,39 +691,7 @@
           "status": "preparing"
         },
         {
-          "day": 20,
-          "status": "preparing"
-        },
-        {
-          "day": 22,
-          "status": "preparing"
-        },
-        {
-          "day": 23,
-          "status": "preparing"
-        },
-        {
-          "day": 24,
-          "status": "preparing"
-        },
-        {
-          "day": 25,
-          "status": "preparing"
-        },
-        {
           "day": 26,
-          "status": "preparing"
-        },
-        {
-          "day": 27,
-          "status": "preparing"
-        },
-        {
-          "day": 28,
-          "status": "preparing"
-        },
-        {
-          "day": 29,
           "status": "preparing"
         }
       ]
