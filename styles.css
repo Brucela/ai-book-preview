@@ -35,3 +35,8 @@
 
 
 .book .volume-two-cover{object-fit:contain;object-position:center;background:#dce5d6}
+
+/* Third-volume shelf: keep all cover paintings complete at every width. */
+.shelf-layout{grid-template-columns:minmax(0,1fr) 240px;gap:32px}.books{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;align-items:stretch;padding-inline:8px}.book,.book.planned{max-width:none;height:100%}.book.volume-three{background:#815b48}.book .volume-three-cover{object-fit:contain;object-position:center;background:#394b5d;border-radius:5px}
+@media(max-width:950px){.shelf-layout{grid-template-columns:1fr}.shelf-aside{display:none}}
+@media(max-width:600px){.books{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.book.volume-three{grid-column:1 / -1;justify-self:center;width:calc(50% - 9px)}.book.planned strong{font-size:22px}.book .volume-three-cover{height:82px}}

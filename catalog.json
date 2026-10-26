@@ -695,6 +695,133 @@
           "status": "preparing"
         }
       ]
+    },
+    {
+      "number": 3,
+      "label": "第三冊",
+      "title": "米米和圓圓的節日故事書",
+      "startDay": 1,
+      "endDay": 27,
+      "status": "preview",
+      "stories": [
+        {
+          "day": 1,
+          "status": "preparing"
+        },
+        {
+          "day": 2,
+          "status": "preparing"
+        },
+        {
+          "day": 3,
+          "status": "preparing"
+        },
+        {
+          "day": 4,
+          "status": "preparing"
+        },
+        {
+          "day": 5,
+          "status": "preparing"
+        },
+        {
+          "day": 6,
+          "status": "preparing"
+        },
+        {
+          "day": 7,
+          "status": "preparing"
+        },
+        {
+          "day": 8,
+          "status": "preparing"
+        },
+        {
+          "day": 9,
+          "status": "preview",
+          "title": "提著小燈找答案",
+          "summary": "提著兩盞小燈走進元宵燈會，米米和圓圓沿著線索，找到了藏在夜空裡的答案。",
+          "minutes": 5,
+          "href": "volume-03-pilot/day-009/",
+          "image": "volume-03-pilot/day-009/images/scene-01.webp",
+          "imageAlt": "米米和圓圓在地毯上打開亮著花燈的神奇故事書",
+          "statusText": "L1 有聲試閱 · 水彩與完整聽感待確認",
+          "place": "元宵・提燈籠與猜燈謎",
+          "durationSeconds": 293.93
+        },
+        {
+          "day": 10,
+          "status": "preparing"
+        },
+        {
+          "day": 11,
+          "status": "preparing"
+        },
+        {
+          "day": 12,
+          "status": "preparing"
+        },
+        {
+          "day": 13,
+          "status": "preparing"
+        },
+        {
+          "day": 14,
+          "status": "preparing"
+        },
+        {
+          "day": 15,
+          "status": "preparing"
+        },
+        {
+          "day": 16,
+          "status": "preparing"
+        },
+        {
+          "day": 17,
+          "status": "preparing"
+        },
+        {
+          "day": 18,
+          "status": "preparing"
+        },
+        {
+          "day": 19,
+          "status": "preparing"
+        },
+        {
+          "day": 20,
+          "status": "preparing"
+        },
+        {
+          "day": 21,
+          "status": "preparing"
+        },
+        {
+          "day": 22,
+          "status": "preparing"
+        },
+        {
+          "day": 23,
+          "status": "preparing"
+        },
+        {
+          "day": 24,
+          "status": "preparing"
+        },
+        {
+          "day": 25,
+          "status": "preparing"
+        },
+        {
+          "day": 26,
+          "status": "preparing"
+        },
+        {
+          "day": 27,
+          "status": "preparing"
+        }
+      ]
     }
   ]
 }
